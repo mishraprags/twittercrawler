@@ -14,10 +14,10 @@ import json
 
 import datetime
 
-consumer_key = "ChyGP4dic6FAfH9upbzqLKSW2"
-consumer_secret ="nrmTO1tjLsGqwW5PpMwib4Ow35VV5XZJQ0CoKr90ioX9hT4K0M"
-access_token ="1350297625388490758-dzWxd9Ee48B9NwoNfeicqA0lpJ4btk"
-access_token_secret ="56r4UfE5yWieTylTCfFqVCqO7zOySjDVuBzuxftTPYtrl"
+consumer_key = ""
+consumer_secret =""
+access_token =""
+access_token_secret =""
  
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
